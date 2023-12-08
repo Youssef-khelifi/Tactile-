@@ -1,4 +1,3 @@
-#TACTILE
 # Liens vers les API
 ## API Web Speech
 Explorez l'API Web Speech pour la reconnaissance vocale et la synthèse vocale.
